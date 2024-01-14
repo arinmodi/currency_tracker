@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Currencies</string>
+    <string name="no_data_found">No Data Found</string>
+    <string name="try_again">Try Again</string>
+    <string name="last_refreshed">Last Refreshed : </string>
+    <string name="dollar">$</string>
+</resources>
